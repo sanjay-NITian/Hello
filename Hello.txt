@@ -1,1 +1,4 @@
-hello moit
+git status
+git add .
+git commit -m "parser"
+git push origin master
